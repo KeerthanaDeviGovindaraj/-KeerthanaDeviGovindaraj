@@ -1,8 +1,7 @@
-# KeerthanaDeviGovindaraj
+Keerthana Devi Govindaraj 
 
 <div align="center">
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Keerthana+Devi+Govindaraj;Full+Stack+Developer+%F0%9F%9A%80;MS+Software+Engineering+%40+Northeastern;Building+things+that+matter+%F0%9F%92%AB)](https://git.io/typing-svg)
 
 <br/>
@@ -28,6 +27,37 @@ I'm a **Full Stack Developer** pursuing my **MS in Software Engineering Systems 
 
 ---
 
+##  Education
+
+###  Northeastern University — Boston, MA
+**Master of Science in Software Engineering Systems** | GPA: 3.85 / 4.0
+Jan 2025 – Dec 2027 (Expected)
+
+![Web Dev](https://img.shields.io/badge/Web_Development-6C63FF?style=flat-square&logoColor=white)
+![OOD](https://img.shields.io/badge/Object--Oriented_Design-6C63FF?style=flat-square&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-6C63FF?style=flat-square&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-6C63FF?style=flat-square&logoColor=white)
+
+---
+
+###  FITA Academy — Anna Nagar, Chennai, India
+**Masters in Full Stack Development** | React · Java · Spring Boot · SQL
+Jan 2025 – Aug 2025
+
+![Java](https://img.shields.io/badge/Core_%26_Advanced_Java-00d4ff?style=flat-square&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_%26_REST_APIs-00d4ff?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React.js_%26_Redux-00d4ff?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_%26_Database_Management-00d4ff?style=flat-square&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5%2C_CSS3%2C_JavaScript-00d4ff?style=flat-square&logoColor=white)
+
+---
+
+### SRM Institute of Science and Technology — India
+**B.Tech in Electronics and Computer Engineering** | GPA: 9.0 / 10
+Graduated October 2024
+
+---
+
 ##  Tech Stack
 
 **Languages**
@@ -50,10 +80,12 @@ I'm a **Full Stack Developer** pursuing my **MS in Software Engineering Systems 
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -75,9 +107,9 @@ I'm a **Full Stack Developer** pursuing my **MS in Software Engineering Systems 
 ##  Featured Projects
 
 ###  [Eye Tracking Based ASD Diagnosis](https://github.com/KeerthanaDeviGovindaraj/Autism_Eye)
-> CNN · TensorFlow · PCA · OpenCV
+> CNN · TensorFlow · PCA · OpenCV |  IEEE Research Paper
 
-Early detection of **Autism Spectrum Disorder** using deep learning on eye-tracking datasets. Applied CNNs + PCA with transfer learning, boosting model accuracy by **20%** over baseline. *(Research Paper)*
+Early detection of **Autism Spectrum Disorder** using deep learning on eye-tracking datasets. Applied CNNs + PCA with transfer learning, boosting model accuracy by **20%** over baseline.
 
 ---
 
@@ -88,22 +120,21 @@ Designed a scalable, cloud-native e-commerce backend using microservices archite
 
 ---
 
-###  [GLIMPSE: AI-Powered Sports Commentary](https://github.com/rushita-vachhani/GLIMPSE) · [Portfolio](https://keerthanadevigportfolio.netlify.app/work)
+###  [GLIMPSE: AI-Powered Sports Commentary](https://github.com/rushita-vachhani/GLIMPSE) · [Live Demo](https://keerthanadevigportfolio.netlify.app/work)
 > React · Redux · Node.js · MongoDB · Google Gemini API · Vercel
 
 Full-stack platform generating real-time AI sports commentary. Built **15+ React components**, integrated **Google Gemini API**, and reduced manual commentary creation time by **80%**, handling **100+ requests/day**.
 
 ---
 
-### 🔍 [Query Performance Analyzer](https://github.com/davasi31/Dbqa-query-analyzer)
-> Django · Python · PostgreSQL
+###  [Query Performance Analyzer](https://github.com/davasi31/Dbqa-query-analyzer)
+> Django · Python · PostgreSQL |  IEEE Research Paper
 
 A query performance analysis tool that cut average SQL execution time by **30%** across dev/test/prod environments, with real-time data visualization dashboards.
 
 ---
 
-
-##  Experience
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
