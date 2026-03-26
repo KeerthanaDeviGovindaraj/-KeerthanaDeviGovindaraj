@@ -114,6 +114,6 @@ A query performance analysis tool that cut average SQL execution time by **30%**
 
 <div align="center">
 
-* Open to internships & co-ops in Full Stack / AI / Cloud — Let's connect!*
+Open to internships & co-ops in Full Stack / AI / Cloud — Let's connect!
 
 </div>
