@@ -16,19 +16,19 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 I'm a **Full Stack Developer** pursuing my **MS in Software Engineering Systems at Northeastern University** (GPA: 3.85/4.0), with a strong background in building scalable web applications, ML-powered tools, and cloud-native systems.
 
-- 🎓 MS @ **Northeastern University**, Boston — Expected Dec 2027
-- 🔭 Currently working on: **AI-powered platforms & cloud-native architectures**
-- 🌱 Learning: **Cloud Computing, Advanced Algorithms, Microservices**
-- 💡 Passionate about: Full Stack Dev, AI/ML integration, and impactful UX
-- 📫 Reach me at: **govindaraj.ke@northeastern.edu**
+-  MS @ **Northeastern University**, Boston — Expected Dec 2027
+-  Currently working on: **AI-powered platforms & cloud-native architectures**
+-  Learning: **Cloud Computing, Advanced Algorithms, Microservices**
+-  Passionate about: Full Stack Dev, AI/ML integration, and impactful UX
+-  Reach me at: **govindaraj.ke@northeastern.edu**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -36,7 +36,6 @@ I'm a **Full Stack Developer** pursuing my **MS in Software Engineering Systems 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frontend**
@@ -73,23 +72,23 @@ I'm a **Full Stack Developer** pursuing my **MS in Software Engineering Systems 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 [Eye Tracking Based ASD Diagnosis](https://github.com/KeerthanaDeviGovindaraj/Autism_Eye)
+###  [Eye Tracking Based ASD Diagnosis](https://github.com/KeerthanaDeviGovindaraj/Autism_Eye)
 > CNN · TensorFlow · PCA · OpenCV
 
 Early detection of **Autism Spectrum Disorder** using deep learning on eye-tracking datasets. Applied CNNs + PCA with transfer learning, boosting model accuracy by **20%** over baseline. *(Research Paper)*
 
 ---
 
-### 🛒 [Microservices-Based E-Commerce Platform](https://github.com/KeerthanaDeviGovindaraj/Microservices-Based-E-Commerce-Platform)
+###  [Microservices-Based E-Commerce Platform](https://github.com/KeerthanaDeviGovindaraj/Microservices-Based-E-Commerce-Platform)
 > Microservices · OOD · Cloud-native
 
 Designed a scalable, cloud-native e-commerce backend using microservices architecture and object-oriented design principles.
 
 ---
 
-### 🏟️ [GLIMPSE: AI-Powered Sports Commentary](https://github.com/rushita-vachhani/GLIMPSE) · [Portfolio](https://keerthanadevigportfolio.netlify.app/work)
+###  [GLIMPSE: AI-Powered Sports Commentary](https://github.com/rushita-vachhani/GLIMPSE) · [Portfolio](https://keerthanadevigportfolio.netlify.app/work)
 > React · Redux · Node.js · MongoDB · Google Gemini API · Vercel
 
 Full-stack platform generating real-time AI sports commentary. Built **15+ React components**, integrated **Google Gemini API**, and reduced manual commentary creation time by **80%**, handling **100+ requests/day**.
@@ -103,33 +102,18 @@ A query performance analysis tool that cut average SQL execution time by **30%**
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Keerthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeerthanaDeviGovindaraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KeerthanaDeviGovindaraj&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KeerthanaDeviGovindaraj&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 💼 Experience
+##  Experience
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🤖 Machine Learning Intern | Aican Automate | Jan 2023 – Mar 2023 |
-| 🎨 UI/UX Intern | Visanka Technologies | Apr 2023 – Jun 2023 |
+|  Machine Learning Intern | Aican Automate | Jan 2023 – Mar 2023 |
+|  UI/UX Intern | Visanka Technologies | Apr 2023 – Jun 2023 |
 
 ---
 
 <div align="center">
 
-*🌟 Open to internships & co-ops in Full Stack / AI / Cloud — Let's connect!*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=KeerthanaDeviGovindaraj&color=6C63FF&style=flat-square&label=Profile+Views)
+* Open to internships & co-ops in Full Stack / AI / Cloud — Let's connect!*
 
 </div>
