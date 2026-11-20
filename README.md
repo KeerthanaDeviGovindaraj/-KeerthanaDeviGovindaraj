@@ -6,7 +6,7 @@ Keerthana Devi Govindaraj
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keerthanadevigportfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keerthanadevigovindaraj.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keerthanadevig28062002/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KeerthanaDeviGovindaraj)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:govindaraj.ke@northeastern.edu)
@@ -120,7 +120,7 @@ Designed a scalable, cloud-native e-commerce backend using microservices archite
 
 ---
 
-###  [GLIMPSE: AI-Powered Sports Commentary](https://github.com/rushita-vachhani/GLIMPSE) · [Live Demo](https://keerthanadevigportfolio.netlify.app/work)
+###  [GLIMPSE: AI-Powered Sports Commentary](https://github.com/rushita-vachhani/GLIMPSE) · [Live Demo](https://glimpse-kappa.vercel.app/)
 > React · Redux · Node.js · MongoDB · Google Gemini API · Vercel
 
 Full-stack platform generating real-time AI sports commentary. Built **15+ React components**, integrated **Google Gemini API**, and reduced manual commentary creation time by **80%**, handling **100+ requests/day**.
